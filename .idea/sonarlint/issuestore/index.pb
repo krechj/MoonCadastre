@@ -1,0 +1,33 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+a
+1src/main/java/domain/products/crops/CropEnum.java,c\b\cbabca3d54acb622dd983969945b19735f08971d
+P
+ src/main/java/util/Location.java,4\f\4f4dc2f9fdec29892090e037a0f7ece3870cba44
+]
+-src/main/java/domain/products/crops/Crop.java,8\e\8eb159f01d11bea950644d1634e606e7959e6ee9
+Y
+)src/main/java/domain/lot/Residential.java,e\d\edc5210668354d615631b82195a3edcf007ac90d
+X
+(src/main/java/domain/lot/LaunchBase.java,c\8\c8df08d378db3063a675f57469c0683010409165
+M
+src/main/java/util/Yield.java,d\c\dc46d438c4a60d131463c690e0e52d68fd554309
+P
+ src/main/java/util/UnitEnum.java,a\a\aa9732cb171d49cf891ce4e85e744355955f780d
+T
+$src/main/java/domain/lot/Mining.java,7\6\76fa930c7cdac1550537e1986f85678864e855ab
+]
+-src/main/java/domain/lot/WaterExtraction.java,7\b\7bee3013304d9fba9d3129dc828bd16c59c74866
+S
+#src/main/java/util/Transaction.java,8\7\87b2c16ff4baf5ebb9add0a0e44066b7e4811103
+Z
+*src/main/java/domain/lot/Agricultural.java,1\a\1a3fe06e2f3fcd4eb7d60f0a70ccd25da892964d
+Q
+!src/main/java/domain/lot/Lot.java,8\f\8fef45cf4908e987048cf085b0256454dc7d6e9c
+c
+3src/main/java/administration/LotAdministration.java,7\5\756b57d05c4b5bbe9ec73e0371358c2336c6bcab
+b
+2src/main/java/domain/products/mineral/Mineral.java,8\f\8f487fd623201b307d324ba1bf70ca069f445539
+f
+6src/main/java/domain/products/mineral/MineralEnum.java,2\c\2cf2c59a206512ec13d28a7ce3b64b436bafa663
